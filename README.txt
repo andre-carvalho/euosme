@@ -1,6 +1,13 @@
+
+Related with http://eenvplus.sinergis.it/euosmegwt/EUOSMEGWT.html?locale=pt
+
+The goal is deploy one instance of this tool in a docker cluster.
+
+-- Original text of README file
+----
 European Open Source Metadata Editor (EUOSME)
 
-This product is licenced under the EUPL © the European Union 2011 
+This product is licenced under the EUPL Â© the European Union 2011 
 
 Notices about included packages are included in each subproject
 
