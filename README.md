@@ -1,5 +1,6 @@
 
-Related with http://eenvplus.sinergis.it/euosmegwt/EUOSMEGWT.html?locale=pt
+Related with: http://showcase.eenvplus.eu/client/editor.htm
+http://eenvplus.sinergis.it/euosmegwt/EUOSMEGWT.html?locale=pt
 
 The goal is deploy one instance of this tool in a docker cluster.
 
